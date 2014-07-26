@@ -15,3 +15,4 @@ c:\users\carson\documents\visual studio 2013\Projects\ExpenseIt\ExpenseIt\obj\De
 c:\users\carson\documents\visual studio 2013\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
 c:\users\carson\documents\visual studio 2013\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
 c:\users\carson\documents\visual studio 2013\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csprojResolveAssemblyReference.cache
+c:\users\carson\documents\visual studio 2013\Projects\ExpenseIt\ExpenseIt\obj\Debug\App.baml
